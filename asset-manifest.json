@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-router-sample/static/js/main.69760f74.js",
+    "static/js/787.6fbbbc67.chunk.js": "/react-router-sample/static/js/787.6fbbbc67.chunk.js",
+    "index.html": "/react-router-sample/index.html",
+    "main.69760f74.js.map": "/react-router-sample/static/js/main.69760f74.js.map",
+    "787.6fbbbc67.chunk.js.map": "/react-router-sample/static/js/787.6fbbbc67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.69760f74.js"
+  ]
+}
